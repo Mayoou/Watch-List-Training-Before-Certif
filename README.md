@@ -1,24 +1,13 @@
-# README
+👋 Welcome to Thomas's GitHub Profile aka. @Mayoou , a back-end rookie developer !
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+----------------------------------------
 
-Things you may want to cover:
+🚀 This repository is a simple training to pass a certification. This is a fairly simple challenge concerning a MVC of movie lists, seen at Wagon-Marseille in 2022.
 
-* Ruby version
+----------------------------------------
 
-* System dependencies
+🖋️ Contact Me :
 
-* Configuration
+LinkedIn - https://www.linkedin.com/in/thomas-laugier-374b0a236/
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Ruby on Rails Jobs - https://www.ruby-on-rails-jobs.com/developers/ruby-on-rails-rookie
